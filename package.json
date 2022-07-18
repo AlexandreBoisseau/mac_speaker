@@ -1,0 +1,24 @@
+{
+  "name": "fnac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "expresss": "^0.0.0",
+    "http-server": "^14.1.1",
+    "live-server": "^1.2.2",
+    "pnpm": "^7.5.1"
+  },
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "webpack": "^5.73.0"
+  }
+}
